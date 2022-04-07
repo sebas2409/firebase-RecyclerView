@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920217448855",
+    "project_id": "realtime-recyclerview",
+    "storage_bucket": "realtime-recyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920217448855:android:5bd5d8001ceddaacd354d2",
+        "android_client_info": {
+          "package_name": "com.watermelon.realtime_recyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920217448855-h4nsfsa063umvp25nccqchsiu16hui8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31l7vofZ99lfVjhT9bHwFLHyd6jLSCPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920217448855-h4nsfsa063umvp25nccqchsiu16hui8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
